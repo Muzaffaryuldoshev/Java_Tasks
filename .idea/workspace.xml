@@ -1,14 +1,267 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c187bf27-1ba8-40b1-8816-990d6dc5f895" name="Changes" comment="2 classes from yesterday's prep">
+      <change afterPath="$PROJECT_DIR$/src/String_Questions/CharacterFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Questions/Count_VowelandConsonant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Questions/DigitChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Questions/FirstNonRepeated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Questions/First_NonRepeated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Questions/Palindrome_Checker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Questions/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Questions/TitleCaseConvertor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Questions/URLify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/questions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Muzaffaryuldoshev&quot;
+  }
+}</component>
+  <component name="GitHubPullRequestState">{
+  &quot;prStates&quot;: [
+    {
+      &quot;id&quot;: {
+        &quot;id&quot;: &quot;PR_kwDOOsJHYM6Wnz2y&quot;,
+        &quot;number&quot;: 1
+      },
+      &quot;lastSeen&quot;: 1747582335885
+    }
+  ]
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Muzaffaryuldoshev/Java_Tasks.git&quot;,
+    &quot;accountId&quot;: &quot;03874860-2d76-4085-bb36-08b825f0b7f8&quot;
+  },
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
+    },
+    &quot;owner&quot;: &quot;Muzaffaryuldoshev&quot;,
+    &quot;repository&quot;: &quot;Java_Tasks&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2xH3wwgTS0a4aIYaYQWyylehuaW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
-    <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CharacterFrequency.executor": "Run",
+    "Application.CheckAnagram.executor": "Run",
+    "Application.Count_VowelandConsonant.executor": "Run",
+    "Application.DigitChecker.executor": "Run",
+    "Application.First_NonRepeated.executor": "Run",
+    "Application.Palindrome_Checker.executor": "Run",
+    "Application.Reverse_String.executor": "Run",
+    "Application.TitleCaseConvertor.executor": "Run",
+    "Application.URLify.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "#3 on Muzaffar",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/99894/IdeaProjects/Java_Tasks",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RunManager" selected="Application.DigitChecker">
+    <configuration name="CharacterFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String_Questions.CharacterFrequency" />
+      <module name="Java_Tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String_Questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DigitChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String_Questions.DigitChecker" />
+      <module name="Java_Tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String_Questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="First_NonRepeated" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String_Questions.First_NonRepeated" />
+      <module name="Java_Tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String_Questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TitleCaseConvertor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String_Questions.TitleCaseConvertor" />
+      <module name="Java_Tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String_Questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="URLify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String_Questions.URLify" />
+      <module name="Java_Tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String_Questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DigitChecker" />
+        <item itemvalue="Application.URLify" />
+        <item itemvalue="Application.CharacterFrequency" />
+        <item itemvalue="Application.TitleCaseConvertor" />
+        <item itemvalue="Application.First_NonRepeated" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.59" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.59" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c187bf27-1ba8-40b1-8816-990d6dc5f895" name="Changes" comment="" />
+      <created>1747581414634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747581414634</updated>
+      <workItem from="1747581415577" duration="1717000" />
+      <workItem from="1747584825505" duration="1548000" />
+      <workItem from="1747662859442" duration="1883000" />
+      <workItem from="1747665240735" duration="2439000" />
+      <workItem from="1747670423393" duration="2403000" />
+      <workItem from="1747673561927" duration="1641000" />
+    </task>
+    <task id="LOCAL-00001" summary="New Class and Package">
+      <option name="closed" value="true" />
+      <created>1747581837267</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747581837268</updated>
+    </task>
+    <task id="LOCAL-00002" summary="New Class and Package">
+      <option name="closed" value="true" />
+      <created>1747582138376</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747582138376</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2 classes from yesterday's prep">
+      <option name="closed" value="true" />
+      <created>1747662901501</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1747662901501</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New Class and Package" />
+    <MESSAGE value="2 classes from yesterday's prep" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 classes from yesterday's prep" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/String_Questions/CharacterFrequency.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
 </project>

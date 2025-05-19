@@ -1,0 +1,114 @@
+## Java SDET Practice Questions: Strings, Arrays, and Methods
+
+### 🔤 String-Based Questions (1–40)
+
+1. **Reverse a String**: Write a method to reverse a string without using built-in reverse functions.
+2. **Check Anagram**: Write a function to check if two strings are anagrams of each other.
+3. **Vowel and Consonant Counter**: Count the number of vowels and consonants in a given string.
+4. **Palindrome Checker**: Determine if a given string reads the same backward.
+5. **Remove Duplicates**: Remove duplicate characters from a string while preserving the order.
+6. **First Non-Repeating Character**: Find the first character that doesn't repeat.
+7. **Title Case Converter**: Convert a string to title case (first letter of each word capitalized).
+8. **Character Frequency**: Count and display frequency of each character.
+9. **URLify**: Replace all spaces in a string with '%20'.
+10. **Digit Checker**: Check if a string contains only digits.
+11. **Run-Length Encoding**: Compress a string using the counts of repeated characters.
+12. **Longest Unique Substring**: Find the length of the longest substring without repeating characters.
+13. **String Permutations**: Print all permutations of a string.
+14. **Rotation Checker**: Check if one string is a rotation of another.
+15. **Whitespace Remover**: Remove all whitespaces from a string.
+16. **Word Counter**: Count the number of words in a sentence.
+17. **Capitalize Words**: Capitalize the first letter of every word.
+18. **String Comparator**: Compare two strings without using equals().
+19. **Substring Occurrence**: Count the number of times a substring appears.
+20. **Manual String to Integer**: Convert a string of digits to integer manually.
+21. **ToUpperCase Implementation**: Implement your own version of toUpperCase().
+22. **Isomorphic Strings**: Determine if two strings are isomorphic.
+23. **Alphabet Only**: Check if a string contains only alphabetic characters.
+24. **Reverse Vowels**: Reverse the vowels in a string.
+25. **Longest Common Prefix**: Find the longest common prefix among an array of strings.
+26. **Case Counter**: Count uppercase and lowercase letters in a string.
+27. **Character Removal**: Remove characters from one string that appear in another.
+28. **Duplicate Words**: Identify and count duplicate words in a string.
+29. **Roman to Integer**: Convert a Roman numeral to an integer.
+30. **Caesar Cipher**: Encode a string using Caesar Cipher.
+31. **Subsequence Check**: Check if one string is a subsequence of another.
+32. **Camel Case Converter**: Convert a string to camelCase.
+33. **Palindromic Substrings**: Find all palindromic substrings in a string.
+34. **ZigZag Conversion**: Convert string to zigzag pattern.
+35. **Next Character Replacer**: Replace every character with its next character.
+36. **Most Frequent Word**: Find the word that occurs most frequently.
+37. **ASCII Converter**: Convert each character to its ASCII value.
+38. **Longest Repeating Character**: Find the longest sequence of repeating characters.
+39. **Punctuation Counter**: Count all punctuation characters.
+40. **String Rotator**: Rotate a string left/right by k positions.
+
+### 🔢 Array-Based Questions (41–70)
+
+41. **Find Min/Max**: Find the maximum and minimum values in an array.
+42. **Reverse Array**: Reverse an array in place.
+43. **Remove Duplicates**: Eliminate duplicates from an array.
+44. **Left Rotate**: Rotate the array to the left by k elements.
+45. **Pair Sum**: Find all pairs with a specific sum.
+46. **Sorted Check**: Check if the array is sorted.
+47. **Merge Sorted Arrays**: Merge two sorted arrays into one.
+48. **Second Largest**: Find the second largest element.
+49. **Move Zeros**: Move all zeroes to the end without affecting order.
+50. **Element Remover**: Remove a given element from the array.
+51. **Missing Number**: Find the missing number in a sequence.
+52. **Find Duplicates**: Detect duplicates in the array.
+53. **Intersection**: Find common elements in two arrays.
+54. **Union**: Find union of two arrays.
+55. **Even/Odd Counter**: Count even and odd numbers.
+56. **Array Equality**: Check if two arrays are equal.
+57. **Product of All Except Current**: Replace each element with the product of all others.
+58. **Majority Element**: Find the element that appears more than n/2 times.
+59. **Single Occurrence**: Find the number that appears only once.
+60. **Segregate 0s and 1s**: Sort binary array.
+61. **Array Shuffle**: Randomly shuffle array elements.
+62. **Manual Sort**: Sort without using built-in functions.
+63. **Kth Largest**: Find the Kth largest element.
+64. **Frequency Counter**: Count frequencies of all elements.
+65. **Common in Three Arrays**: Find elements common in three arrays.
+66. **Max Product**: Find the maximum product of any two integers.
+67. **LIS**: Find longest increasing subsequence.
+68. **Merge Intervals**: Merge overlapping intervals.
+69. **Subarray Sum**: Find a subarray with a given sum.
+70. **Array to String**: Convert array to string and back.
+
+### 🧮 Method-Based and Core Java (71–100)
+
+71. **Prime Checker**: Method to check if a number is prime.
+72. **Armstrong Checker**: Check if a number is Armstrong.
+73. **Swap Numbers**: Swap two numbers without using temp variable.
+74. **Factorial (Recursion)**: Recursive method to calculate factorial.
+75. **Overload vs Override**: Example of method overloading and overriding.
+76. **Fibonacci Series**: Return first n Fibonacci numbers.
+77. **Leap Year Checker**: Method to determine if year is leap.
+78. **Power Calculator**: Raise number to given power.
+79. **Digit Reversal**: Reverse digits of an integer.
+80. **Decimal to Binary**: Convert number to binary string.
+81. **Perfect Square Checker**: Check if a number is a perfect square.
+82. **Custom Split**: Implement a method to split strings.
+83. **Pass-by-Value Demo**: Demonstrate Java’s pass-by-value.
+84. **Simple Recursion**: Show basic recursion with sum of first n numbers.
+85. **Manual Sort Method**: Write your own sort algorithm.
+86. **Bit Counter**: Count number of 1s in binary representation.
+87. **GCD Finder**: Find greatest common divisor of two numbers.
+88. **Palindrome Number Checker**: Check if number is palindrome.
+89. **Find Duplicate with Map**: Use HashMap to find duplicates.
+90. **Static vs Instance**: Demonstrate static and instance methods.
+91. **Swap Characters**: Swap characters in string by position.
+92. **Valid Brackets**: Check for valid parentheses.
+93. **Reverse Words in Sentence**: Reverse word order in sentence.
+94. **Int to String**: Convert int to string manually.
+95. **Prime in Range**: Print all primes in given range.
+96. **DP Fibonacci**: Fibonacci using dynamic programming.
+97. **Random Password Generator**: Generate a secure random password.
+98. **Multi-Return**: Return multiple values using object/array.
+99. **Digit Frequency**: Count frequency of each digit in a number.
+100. **Common Characters**: Find characters common to all strings in array.
+
+---
+
+You can use this as a checklist for solving and uploading your work to GitHub. Let me know if you want help creating a folder structure or README template for your repository!
